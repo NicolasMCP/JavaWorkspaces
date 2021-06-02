@@ -7,15 +7,31 @@
 Projetos em Java 8 ou superior - Software Livre.
 
 
-Atualmente estou usando os jdks
+Atualmente estou usando mais o JDK 11
 
-[jdk 11.0.8 LTS](https://github.com/corretto/corretto-11/releases)
-
-e
-
-[jdk 8 u256.01.1 LTS](https://github.com/corretto/corretto-8/releases)
 
 
 ### Workspaces independentes dentro da pasta
 
+
+<br/>
+
+#### [infodata](https://nicolasmcp.github.io/infodata/)
+
+
+#### [código infodata atualizando](https://github.com/NicolasMCP/infodata/blob/main/README.md)
+
+
+#### [google drive](https://drive.google.com/drive/folders/0B8C7-DYa7vcUUVRzanFhZENMTFU)
+
+
+#### [youtube](https://www.youtube.com/channel/UCYI7lWiyTmdY8vU6Ub1LZAw)
+
+
+#### [anteriormente infodata.xyz](https://github.com/NicolasMCP/infodata.xyz/blob/master/README.md)
+
+
+**Projeto de Nícolas Ramos**
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[nicolas.mcp@gmail.com](mailto:nicolas.mcp@gmail.com)
 
