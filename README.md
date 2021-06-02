@@ -10,16 +10,19 @@ Projetos em Java 8 ou superior - Software Livre.
 Atualmente estou usando mais o JDK 11
 
 
+### Workspaces independentes dentro da pasta
+
+
 #### [Processamento Concorrente](https://github1s.com/NicolasMCP/JavaWorkspaces/blob/main/jdev-treinamento/modulo14/processamento-concorrente-thred/ProcessamentoConcorrenteThread/src/xyz/infodata/processamento/concorrente/ProcessamentoConcorrente.java)       (muda a interface)
 
 
 #### [Desafios](https://github1s.com/NicolasMCP/JavaWorkspaces/blob/main/Desafios/src/infodata/aplication/DesafioCPF.java)       (muda a interface)
 
 
-### Workspaces independentes dentro da pasta
-
-
 <br/>
+
+### Outros links do projeto
+
 
 #### [infodata](https://nicolasmcp.github.io/infodata/)
 
