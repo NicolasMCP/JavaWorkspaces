@@ -49,3 +49,7 @@ local.properties
 *.launch
 /testes/
 
+# Local IntelliJ IDEA
+.idea/
+*.iml
+
