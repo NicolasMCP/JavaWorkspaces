@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- * Imprimir em Console os Números pares até o valor fornecido (inclusive se for o caso).
+ * Imprimir em Console os Números pares até o valor fornecido (inclusive ele, se for o caso).
  * Use BufferedReader para ler o teclado.
  *
  * Nota: Utilize System.out.println() apenas para os resultados de saída
