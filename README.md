@@ -13,10 +13,22 @@ Atualmente estou usando mais o JDK 11
 ### Workspaces independentes dentro da pasta
 
 
-#### [Processamento Concorrente](https://github1s.com/NicolasMCP/JavaWorkspaces/blob/main/jdev-treinamento/modulo14/processamento-concorrente-thred/ProcessamentoConcorrenteThread/src/xyz/infodata/processamento/concorrente/ProcessamentoConcorrente.java)       (muda a interface)
+#### [Processamento Concorrente](https://github1s.com/NicolasMCP/JavaWorkspaces/blob/main/jdev-treinamento/modulo14/processamento-concorrente-thred/ProcessamentoConcorrenteThread/src/xyz/infodata/processamento/concorrente/ProcessamentoConcorrente.java)       (interface vcode)
 
 
-#### [Desafios](https://github1s.com/NicolasMCP/JavaWorkspaces/blob/main/Desafios/src/infodata/aplication/DesafioCPF.java)       (muda a interface)
+#### [DesafioCPF](https://github1s.com/NicolasMCP/JavaWorkspaces/blob/main/Desafios/src/infodata/aplication/DesafioCPF.java)       (interface vcode)
+
+
+#### [DesafioDDD](https://github1s.com/NicolasMCP/JavaWorkspaces/blob/main/Desafios/src/infodata/aplication/DesafioDDD.java)       (interface vcode)
+
+
+#### [DesafioLista](https://github1s.com/NicolasMCP/JavaWorkspaces/blob/main/Desafios/src/infodata/aplication/DesafioLista.java)       (interface vcode)
+
+
+#### [DesafioNumerosParesV1](https://github1s.com/NicolasMCP/JavaWorkspaces/blob/main/Desafios/src/infodata/aplication/DesafioNumerosParesV1.java)       (interface vcode)
+
+
+#### [DesafioNumerosParesV2](https://github1s.com/NicolasMCP/JavaWorkspaces/blob/main/Desafios/src/infodata/aplication/DesafioNumerosParesV2.java)       (interface vcode)
 
 
 <br/>
